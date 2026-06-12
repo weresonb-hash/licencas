@@ -1,0 +1,8 @@
+{
+    "12345678000199": {
+      "cliente": "OSC Exemplo",
+      "dataValidade": "2026-06-01",
+      "diasTolerancia": 7,
+      "statusManual": "ativo"
+    }
+  }
