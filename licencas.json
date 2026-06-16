@@ -1,8 +1,14 @@
 {
-    "12345678000199": {
-      "cliente": "OSC Exemplo",
-      "dataValidade": "2026-06-01",
-      "diasTolerancia": 7,
-      "statusManual": "ativo"
-    }
+  "08794244000103": {
+    "cliente": "Associação da Sociedade Solidaria-ASS",
+    "dataValidade": "2026-08-01",
+    "diasTolerancia": 7,
+    "statusManual": "ativo"
+  },
+  "98765432000188": {
+    "cliente": "Nova OSC",
+    "dataValidade": "2027-01-15",
+    "diasTolerancia": 10,
+    "statusManual": "ativo"
   }
+}
