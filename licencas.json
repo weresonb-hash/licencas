@@ -1,14 +1,10 @@
 {
   "08794244000103": {
-    "cliente": "Associação da Sociedade Solidaria-ASS",
-    "dataValidade": "2026-08-01",
-    "diasTolerancia": 7,
-    "statusManual": "ativo"
+    "nome": "Associação da Sociedade Solidaria-ASS",
+    "vencimento": "2026-08-01"
   },
-  "98765432000188": {
-    "cliente": "Nova OSC",
-    "dataValidade": "2027-01-15",
-    "diasTolerancia": 10,
-    "statusManual": "ativo"
+  "12345678000199": {
+    "nome": "Associação Beneficente ABC",
+    "vencimento": "2027-06-30"
   }
 }
